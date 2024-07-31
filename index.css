@@ -1,0 +1,99 @@
+ul,li{
+    list-style:none;
+    
+}
+
+a{
+	text-decoration:none;
+	color:black;
+    font-style:bold;
+    font-size:22px;
+    
+    
+}
+
+
+.navflex{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size:22px;
+    background-color:aqua;
+    height:12vh;
+}
+
+.images{
+    width:95%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+   padding-top: 50px;
+   padding-left: 80px;
+   
+   
+  
+}
+
+.imag{
+    width:30%;
+   
+}
+
+
+img{
+    width:70%;
+   
+ 
+}
+
+
+
+.but1,button{
+   
+   background-color:blueviolet ;
+   border-color: aliceblue;
+   border-radius:20px;
+
+   font-size:16px;
+   font-style: bold;
+   color:aliceblue;
+}
+
+
+
+.but2, button{
+    margin-top: -50px;;
+}
+
+
+
+.but1 , .but2{
+   
+    text-align: center;
+    margin-left: 25px;
+}
+
+.sec10flex{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	/* margin:0px 100px; */
+	padding-top:35px;
+    background-color: aqua;
+}
+
+h1{
+
+    padding-left: 105px;
+}
+
+
+h4{
+    padding-left: 140px;
+
+}
+
+button{
+    margin:30px;
+    padding:10px;
+}
